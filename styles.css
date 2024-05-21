@@ -1,0 +1,32 @@
+.bgc {
+    background-color: black;
+}
+.center-div
+{
+     margin: 0 auto;
+     width: 751px; 
+}
+.left-st {
+    float: right;
+}
+.left-m {
+    margin-left: 380px;
+}
+.font-s {
+    font-size: 1.2rem;
+}
+.left-m-min {
+    margin-left: 30px;
+}
+.slider-container {
+    margin-left: 100px;
+}
+.slider-background {
+    background-color: rgb(56, 56, 56);
+}
+.slider-width {
+    width: 1117px;
+}
+.round-img {
+    border-radius: 15%;
+}
